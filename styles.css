@@ -19,38 +19,38 @@ body {
     }
     /* about styles */
     .about {
-        margin-bottom: 40px;
+        margin-bottom: 20px;
     }
     .about-position { 
         font-style: bold;
         font-size: 24px;
         line-height: 1.2;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     .about-name {
         font-style: bold;
-        font-size: 45px;
+        font-size: 40px;
         line-height: 55px;
-        margin-bottom: 20px;
+        margin-bottom: 10px;
     }
     .about-description {
         font-style: regular;
         font-weight: 700;
         font-size: 22px;
-        line-height: 1.3;
+        line-height: 1.2;
         color: #595959;
         width: 700px;
     }
     /* projects styles */
     .projects {
-       margin-bottom: 30px;
+       margin-bottom: 20px;
     }
     .title {
         font-weight: bold;
-        font-size: 26px;
+        font-size: 24px;
         line-height: 1.2;
         color: #000000;
-        margin-bottom: 10px;
+        margin-bottom: 5px;
     }
     .project-list {
         padding: 0;
@@ -88,7 +88,7 @@ body {
     .work-descr{
         font-weight: 600;
         font-size: 18px;
-        line-height: 1.3;
+        line-height: 1.2;
     }
     .date-work{
         font-size: 16px;
@@ -103,7 +103,7 @@ body {
     }
     /* courses */
     .courses {
-        margin-top: 20px;
+        margin-top: 15px;
     }
     .link-sertificate{
         font-size: 17px;
