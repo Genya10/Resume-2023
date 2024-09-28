@@ -93,6 +93,13 @@ body {
     .date-work{
         font-size: 16px;
     }
+    .date-work > span {
+        font-weight: 600;
+        font-size: 18px;
+    }
+    .descr-expirience {
+        text-indent: 10px;
+    }
     /* courses */
     .courses {
         margin-top: 20px;
